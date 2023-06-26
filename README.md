@@ -18,7 +18,6 @@
   <img align="center" alt="ggguerra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ggguerra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ggguerra-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="right" alt="ggguerra-pic" height="150" style="border-radius:50 px;" src="https://pbs.twimg.com/media/FOltR1VXIAACrTx?format=jpg&name=large">
   
 </div>
   
