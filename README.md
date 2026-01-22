@@ -1,12 +1,5 @@
-Lorenzo Lobo
-Data Analyst
-
-🎓 Information Security
-🎓 Project Management - MBA
-
-🔹 Data Analyst
-🔹 Tec.: Power BI | SQL | VBA | Python | Bash
-🔹 Proj. Gen. Art P5.js
+Lorenzo ggguerra
+Data Analyst, Musician, Artist, 3D, Generative and more
 
 
 <div align="center">
